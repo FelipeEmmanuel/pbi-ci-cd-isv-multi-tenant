@@ -21,7 +21,7 @@
     },
     "main": {
         "spnSecret": "PRD",
-        "capacity": "",
+        "capacity": "none",
         "workspace": "AdventureWorks_PRD",
         "adminUPNs": "53e02df0-299c-4be9-865e-958d22f9b69e",
         "semanticModelsParameters": {
