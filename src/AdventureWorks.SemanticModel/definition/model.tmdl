@@ -8,7 +8,7 @@ model Model
 
 annotation __PBI_TimeIntelligenceEnabled = 0
 
-annotation PBIDesktopVersion = 2.141.1451.0 (25.03)+5007b75f0f7edbed506e31fcb76584cd6d711788
+annotation PBIDesktopVersion = 2.142.928.0 (25.04)+de52df9f0bb74ad93a80d89c52d63fe6d07e0e1b
 
 annotation PBI_QueryOrder = ["SqlServerInstance","SqlServerDatabase","Culture","Customer","Date","Product","Reseller","Sales","Sales Order","Sales Territory"]
 
